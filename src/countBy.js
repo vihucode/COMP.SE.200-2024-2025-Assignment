@@ -1,5 +1,5 @@
-import baseAssignValue from '../.internal/baseAssignValue.js'
-import reduce from '../reduce.js'
+import baseAssignValue from './.internal/baseAssignValue.js'
+import reduce from './reduce.js'
 
 /** Used to check objects for own properties. */
 const hasOwnProperty = Object.prototype.hasOwnProperty

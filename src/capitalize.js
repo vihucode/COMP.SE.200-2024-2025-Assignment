@@ -1,4 +1,4 @@
-import upperFirst from '../upperFirst.js'
+import upperFirst from './upperFirst.js'
 import toString from '../toString.js'
 
 /**
