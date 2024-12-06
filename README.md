@@ -1,3 +1,5 @@
+[![Coverage Status](https://coveralls.io/repos/github/vihucode/COMP.SE.200-2024-2025-Assignment/badge.svg?branch=main)](https://coveralls.io/github/vihucode/COMP.SE.200-2024-2025-Assignment?branch=main)
+
 # Student template
 
 ## Purpose of this repository
